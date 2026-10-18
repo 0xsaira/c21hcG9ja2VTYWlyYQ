@@ -12,50 +12,58 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Saira =====
-[1]Saira       |08:58:03 | 17-10-2026| login OK @wsairaa | score=1360 rank=4777
-[1]Saira       |08:58:03 | 17-10-2026| serverTime=2026-10-17T08:58:02.000Z local=2026-10-17T08:58:03.303Z
+[1]Saira       |07:28:22 | 18-10-2026| login OK @wsairaa | score=1390 rank=4764
+[1]Saira       |07:28:22 | 18-10-2026| serverTime=2026-10-18T07:28:22.000Z local=2026-10-18T07:28:22.230Z
 --> [1]Saira menjalankan: Claim Daily
-[1]Saira       |08:58:04 | 17-10-2026| daily: OK +10 poin score=1370
---> [1]Saira menjalankan: Auto All Tasks (2 pending)
-[1]Saira       |08:58:06 | 17-10-2026| [1/2] 22d3eb50 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211070668870173 | proof=https://x.com/wsairaa/status/2111380754558572353
-[1]Saira       |08:58:06 | 17-10-2026| delay 10s...
-[1]Saira       |08:58:18 | 17-10-2026| [2/2] cc2ba95b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211070668870173 | proof=https://x.com/wsairaa/status/2111380966548796987
-[1]Saira       |08:58:18 | 17-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Saira       |08:58:20 | 17-10-2026| [1/1] 22d3eb50 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2110706688701735 | proof=https://x.com/wsairaa/status/2111380793896305133
+[1]Saira       |07:28:23 | 18-10-2026| daily: OK +10 poin score=1400
+--> [1]Saira menjalankan: Auto All Tasks (5 pending)
+[1]Saira       |07:28:25 | 18-10-2026| [1/5] fa44d98c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/wsairaa/status/2111720648134633140
+[1]Saira       |07:28:25 | 18-10-2026| delay 10s...
+[1]Saira       |07:28:37 | 18-10-2026| [2/5] 9dd2f7fc (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/wsairaa/status/2111720518473675601
+[1]Saira       |07:28:37 | 18-10-2026| delay 10s...
+[1]Saira       |07:28:49 | 18-10-2026| [3/5] 9d42b298 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/wsairaa/status/2111720780084959588
+[1]Saira       |07:28:49 | 18-10-2026| delay 10s...
+[1]Saira       |07:29:05 | 18-10-2026| [4/5] 43631d01 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569
+[1]Saira       |07:29:05 | 18-10-2026| delay 10s...
+[1]Saira       |07:29:18 | 18-10-2026| [5/5] 9a5c9c72 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/wsairaa/status/2111720802787215246
+[1]Saira       |07:29:18 | 18-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Saira       |07:29:19 | 18-10-2026| [1/1] fa44d98c (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2111455073125699 | proof=https://x.com/wsairaa/status/2111720878012394193
 --> [1]Saira menjalankan: Watch Anime
-[1]Saira       |08:58:21 | 17-10-2026| watch: 3 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse
-[1]Saira       |08:58:21 | 17-10-2026| watch [1/3] farming oshi-captains-hat...
-  video baru dikenal: oshi-captains-hat (katalog +4)
-[1]Saira       |08:58:22 | 17-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
-[1]Saira       |08:58:27 | 17-10-2026| watch [2/3] farming oshi-rainbow-star...
-[1]Saira       |08:58:29 | 17-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
-[1]Saira       |08:58:34 | 17-10-2026| watch [3/3] farming oshi-rainbow-lighthouse...
-[1]Saira       |08:58:35 | 17-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
+[1]Saira       |07:29:20 | 18-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
+[1]Saira       |07:29:20 | 18-10-2026| watch [1/4] farming oshi-captains-hat...
+  video baru dikenal: oshi-captains-hat (katalog +5)
+[1]Saira       |07:29:22 | 18-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
+[1]Saira       |07:29:27 | 18-10-2026| watch [2/4] farming oshi-rainbow-star...
+[1]Saira       |07:29:28 | 18-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
+[1]Saira       |07:29:33 | 18-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
+[1]Saira       |07:29:35 | 18-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
+[1]Saira       |07:29:40 | 18-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
+[1]Saira       |07:29:41 | 18-10-2026| watch bakeru-ikesou-jan-mv: durasi tak diketahui, skip (record tidak disentuh)
 --> [1]Saira menjalankan: Read Article
-[1]Saira       |08:58:37 | 17-10-2026| news: 27/27 artikel selesai dibaca
-[1]Saira       |08:58:37 | 17-10-2026| mint eligibility: {"userId":"1637817397167128576","youtube":{"url":"https://www.youtube.com/@wsairaa","status":"submitted","revision":"f42cd5bf-5b80-4f3e-9ca5-c4b380d558b6","submittedAt":1791693803,"reviewedAt":1791695
-[1]Saira       |08:58:37 | 17-10-2026| news: semua artikel sudah dibaca
+[1]Saira       |07:29:43 | 18-10-2026| news: 27/27 artikel selesai dibaca
+[1]Saira       |07:29:44 | 18-10-2026| mint eligibility: {"userId":"1637817397167128576","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@wsairaa","status":"submitted","revision":"f42cd5bf-5b80-4f3e-9ca5-c4b380d558b6",
+[1]Saira       |07:29:44 | 18-10-2026| news: semua artikel sudah dibaca
 --> [1]Saira menjalankan: Quiz Anime
-[1]Saira       |08:58:38 | 17-10-2026| quiz ep1: sudah dijawab
-[1]Saira       |08:58:38 | 17-10-2026| quiz ep2: sudah dijawab
-[1]Saira       |08:58:38 | 17-10-2026| quiz ep3: sudah dijawab
-[1]Saira       |08:58:38 | 17-10-2026| quiz ep4: sudah dijawab
-[1]Saira       |08:58:38 | 17-10-2026| quiz ep5: sudah dijawab
-[1]Saira       |08:58:38 | 17-10-2026| quiz ep6: sudah dijawab
+[1]Saira       |07:29:44 | 18-10-2026| quiz ep1: sudah dijawab
+[1]Saira       |07:29:44 | 18-10-2026| quiz ep2: sudah dijawab
+[1]Saira       |07:29:44 | 18-10-2026| quiz ep3: sudah dijawab
+[1]Saira       |07:29:44 | 18-10-2026| quiz ep4: sudah dijawab
+[1]Saira       |07:29:44 | 18-10-2026| quiz ep5: sudah dijawab
+[1]Saira       |07:29:44 | 18-10-2026| quiz ep6: sudah dijawab
 --> [1]Saira menjalankan: Music Missions (realtime, bisa lama!)
-[1]Saira       |08:58:40 | 17-10-2026| music: kedua misi sudah tercapai, stop
-[1]Saira       |08:58:40 | 17-10-2026| mission music-listens-10: sudah diklaim
-[1]Saira       |08:58:40 | 17-10-2026| mission music-minutes-30: sudah diklaim
-[1]Saira       |08:58:40 | 17-10-2026| mission anime-completed-3: sudah diklaim
+[1]Saira       |07:29:47 | 18-10-2026| music: kedua misi sudah tercapai, stop
+[1]Saira       |07:29:47 | 18-10-2026| mission music-listens-10: sudah diklaim
+[1]Saira       |07:29:47 | 18-10-2026| mission music-minutes-30: sudah diklaim
+[1]Saira       |07:29:47 | 18-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Saira menjalankan: Claim Missions
-[1]Saira       |08:58:41 | 17-10-2026| mission music-listens-10: sudah diklaim
-[1]Saira       |08:58:41 | 17-10-2026| mission music-minutes-30: sudah diklaim
-[1]Saira       |08:58:41 | 17-10-2026| mission anime-completed-3: sudah diklaim
+[1]Saira       |07:29:48 | 18-10-2026| mission music-listens-10: sudah diklaim
+[1]Saira       |07:29:48 | 18-10-2026| mission music-minutes-30: sudah diklaim
+[1]Saira       |07:29:48 | 18-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Saira menjalankan: Check Eligibility
 
 --- eligibility [1]Saira ---
-  @wsairaa | score=1360 rank=4777
-  tasks    [###################-] 77/79
+  @wsairaa | score=1390 rank=4764
+  tasks    [###################-] 74/79
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -66,14 +74,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Saira menjalankan: Read Manga
-[1]Saira       |08:58:45 | 17-10-2026| manga: 0/13 chapter belum completed
+[1]Saira       |07:29:52 | 18-10-2026| manga: 0/13 chapter belum completed
 --> [1]Saira menjalankan: Get Gift
-[1]Saira       |08:58:45 | 17-10-2026| gift: 0/4 belum diterima
+[1]Saira       |07:29:53 | 18-10-2026| gift: 0/4 belum diterima
 --> [1]Saira menjalankan: Setup Profile
-[1]Saira       |08:58:46 | 17-10-2026| profile: bio="https://x.com/wsairaa" fav=kagura rewardAt=1791682185
-[1]Saira       |08:58:46 | 17-10-2026| profile: bonus sudah diklaim, skip
+[1]Saira       |07:29:53 | 18-10-2026| profile: bio="https://x.com/wsairaa" fav=kagura rewardAt=1791682185
+[1]Saira       |07:29:53 | 18-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Saira menjalankan: Bind Wallet
-[1]Saira       |08:58:46 | 17-10-2026| wallet: sudah terikat Bi2oYhBBey... (solana)
+[1]Saira       |07:29:54 | 18-10-2026| wallet: sudah terikat Bi2oYhBBey... (solana)
 
 == RINGKASAN ==
-- Saira: daily=claimed | tasks OK 3/3 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/3 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Saira: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
