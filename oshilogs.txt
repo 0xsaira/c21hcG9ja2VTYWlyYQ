@@ -12,77 +12,53 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Saira =====
-[1]Saira       |07:38:45 | 24-10-2026| login OK @wsairaa | score=1850 rank=4047
-[1]Saira       |07:38:45 | 24-10-2026| serverTime=2026-10-24T07:38:45.000Z local=2026-10-24T07:38:45.410Z
+[1]Saira       |09:04:23 | 25-10-2026| login OK @wsairaa | score=2080 rank=3695
+[1]Saira       |09:04:23 | 25-10-2026| serverTime=2026-10-25T09:04:23.000Z local=2026-10-25T09:04:23.762Z
 --> [1]Saira menjalankan: Claim Daily
-[1]Saira       |07:38:46 | 24-10-2026| daily: OK +10 poin score=1860
---> [1]Saira menjalankan: Auto All Tasks (9 pending)
-[1]Saira       |07:38:47 | 24-10-2026| [1/9] 50de6b49 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/wsairaa/status/2113897687858062040
-[1]Saira       |07:38:47 | 24-10-2026| delay 10s...
-[1]Saira       |07:38:59 | 24-10-2026| [2/9] b772e482 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":20,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/wsairaa/status/2113897403945071714
-[1]Saira       |07:38:59 | 24-10-2026| delay 10s...
-[1]Saira       |07:39:10 | 24-10-2026| [3/9] 58e687d8 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":20,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/wsairaa/status/2113897767640482207
-[1]Saira       |07:39:10 | 24-10-2026| delay 10s...
-[1]Saira       |07:39:22 | 24-10-2026| [4/9] 63ae925f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":20,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/wsairaa/status/2113897567896284349
-[1]Saira       |07:39:22 | 24-10-2026| delay 10s...
-[1]Saira       |07:39:34 | 24-10-2026| [5/9] c7d975e4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/wsairaa/status/2113897828157904965
-[1]Saira       |07:39:34 | 24-10-2026| delay 10s...
-[1]Saira       |07:39:45 | 24-10-2026| [6/9] f59f95ce (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/wsairaa/status/2113897960018609883
-[1]Saira       |07:39:45 | 24-10-2026| delay 10s...
-[1]Saira       |07:39:57 | 24-10-2026| [7/9] 3c2cc170 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/wsairaa/status/2113897904166902043
-[1]Saira       |07:39:57 | 24-10-2026| delay 10s...
-[1]Saira       |07:40:08 | 24-10-2026| [8/9] 4246c642 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756
-[1]Saira       |07:40:08 | 24-10-2026| delay 10s...
-[1]Saira       |07:40:20 | 24-10-2026| [9/9] 63f05488 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/wsairaa/status/2113897895505256048
-[1]Saira       |07:40:20 | 24-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Saira       |07:40:21 | 24-10-2026| [1/1] 50de6b49 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2113851006337568 | proof=https://x.com/wsairaa/status/2113897763628529662
+[1]Saira       |09:04:24 | 25-10-2026| daily: OK +10 poin score=2090
+--> [1]Saira menjalankan: Auto All Tasks (1 pending)
+[1]Saira       |09:04:26 | 25-10-2026| [1/1] 4262aa80 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4262aa80-b03f-4114-9c19-6ea2ed6b390a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211423827431117 | proof=https://x.com/wsairaa/status/2114281387521571198
+[1]Saira       |09:04:26 | 25-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Saira       |09:04:27 | 25-10-2026| [1/1] 4262aa80 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"4262aa80-b03f-4114-9c19-6ea2ed6b390a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2114238274311176 | proof=https://x.com/wsairaa/status/2114281554044086690
 --> [1]Saira menjalankan: Watch Anime
-[1]Saira       |07:40:21 | 24-10-2026| watch: semua video sudah completed
+[1]Saira       |09:04:28 | 25-10-2026| watch: semua video sudah completed
 --> [1]Saira menjalankan: Read Article
-[1]Saira       |07:40:23 | 24-10-2026| news: 27/30 artikel selesai dibaca
-[1]Saira       |07:40:23 | 24-10-2026| mint eligibility: {"userId":"1637817397167128576","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@wsairaa","status":"submitted","revision":"f42cd5bf-5b80-4f3e-9ca5-c4b380d558b6",
-[1]Saira       |07:40:29 | 24-10-2026| news [1/3] road-to-mint-2026-10: OK completed=28
-[1]Saira       |07:40:36 | 24-10-2026| news [2/3] community-first-update-2026-10: OK completed=29
-[1]Saira       |07:40:44 | 24-10-2026| news [3/3] oshi-nft-price-and-basic-income-01: OK completed=30
+[1]Saira       |09:04:29 | 25-10-2026| news: 30/30 artikel selesai dibaca
+[1]Saira       |09:04:30 | 25-10-2026| mint eligibility: {"userId":"1637817397167128576","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@wsairaa","status":"submitted","revision":"f42cd5bf-5b80-4f3e-9ca5-c4b380d558b6",
+[1]Saira       |09:04:30 | 25-10-2026| news: semua artikel sudah dibaca
 --> [1]Saira menjalankan: Quiz Anime
-[1]Saira       |07:40:47 | 24-10-2026| quiz ep1: sudah dijawab
-[1]Saira       |07:40:47 | 24-10-2026| quiz ep2: sudah dijawab
-[1]Saira       |07:40:47 | 24-10-2026| quiz ep3: sudah dijawab
-[1]Saira       |07:40:47 | 24-10-2026| quiz ep4: sudah dijawab
-[1]Saira       |07:40:47 | 24-10-2026| quiz ep5: sudah dijawab
-[1]Saira       |07:40:47 | 24-10-2026| quiz ep6: sudah dijawab
 --> [1]Saira menjalankan: Music Missions (realtime, bisa lama!)
-[1]Saira       |07:40:48 | 24-10-2026| music: kedua misi sudah tercapai, stop
-[1]Saira       |07:40:48 | 24-10-2026| mission music-listens-10: sudah diklaim
-[1]Saira       |07:40:48 | 24-10-2026| mission music-minutes-30: sudah diklaim
-[1]Saira       |07:40:48 | 24-10-2026| mission anime-completed-3: sudah diklaim
+[1]Saira       |09:04:32 | 25-10-2026| music: kedua misi sudah tercapai, stop
+[1]Saira       |09:04:33 | 25-10-2026| mission music-listens-10: sudah diklaim
+[1]Saira       |09:04:33 | 25-10-2026| mission music-minutes-30: sudah diklaim
+[1]Saira       |09:04:33 | 25-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Saira menjalankan: Claim Missions
-[1]Saira       |07:40:49 | 24-10-2026| mission music-listens-10: sudah diklaim
-[1]Saira       |07:40:49 | 24-10-2026| mission music-minutes-30: sudah diklaim
-[1]Saira       |07:40:49 | 24-10-2026| mission anime-completed-3: sudah diklaim
+[1]Saira       |09:04:34 | 25-10-2026| mission music-listens-10: sudah diklaim
+[1]Saira       |09:04:34 | 25-10-2026| mission music-minutes-30: sudah diklaim
+[1]Saira       |09:04:34 | 25-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Saira menjalankan: Check Eligibility
 
 --- eligibility [1]Saira ---
-  @wsairaa | score=1850 rank=4047
-  tasks    [#############-------] 16/25
+  @wsairaa | score=2080 rank=3695
+  tasks    [--------------------] 0/1
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
-  quiz     [####################] 6/6
+  quiz     [?]
   watch    [####################] 22/17
   music    [####################] 11/11
   artikel  [####################] 30/30
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Saira menjalankan: Read Manga
-[1]Saira       |07:40:52 | 24-10-2026| manga: 0/13 chapter belum completed
+[1]Saira       |09:04:37 | 25-10-2026| manga: 0/13 chapter belum completed
 --> [1]Saira menjalankan: Get Gift
-[1]Saira       |07:40:52 | 24-10-2026| gift: 0/4 belum diterima
+[1]Saira       |09:04:37 | 25-10-2026| gift: 0/4 belum diterima
 --> [1]Saira menjalankan: Setup Profile
-[1]Saira       |07:40:53 | 24-10-2026| profile: bio="https://x.com/wsairaa" fav=kagura rewardAt=1791682185
-[1]Saira       |07:40:53 | 24-10-2026| profile: bonus sudah diklaim, skip
+[1]Saira       |09:04:38 | 25-10-2026| profile: bio="https://x.com/wsairaa" fav=kagura rewardAt=1791682185
+[1]Saira       |09:04:38 | 25-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Saira menjalankan: Bind Wallet
-[1]Saira       |07:40:53 | 24-10-2026| wallet: sudah terikat Bi2oYhBBey... (solana)
+[1]Saira       |09:04:38 | 25-10-2026| wallet: sudah terikat Bi2oYhBBey... (solana)
 
 == RINGKASAN ==
-- Saira: daily=claimed | tasks OK 10/10 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 3 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Saira: daily=claimed | tasks OK 2/2 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
